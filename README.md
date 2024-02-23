@@ -42,5 +42,4 @@ In my free time, i pursue Pixel Art, 3D modeling and animation as hobbies/side h
 <p align="center">
 <a href="mailto:manoellarockembach@gmail.com"><img src="https://img.shields.io/badge/-manoellarockembach@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/manoella-rockembach/"><img src="https://img.shields.io/badge/-Manoella%20Rockembach-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/manurockembach/"><img src="https://img.shields.io/badge/-@manurockembach-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
