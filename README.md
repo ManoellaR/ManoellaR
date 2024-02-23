@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Manoella Rockembach</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩‍💻 &nbsp;About Me
 
 I am a Computer Engineering student at the Federal University of Santa Catarina (UFSC), where I have actively participated in extension projects such as "RA Escolas" and the development of the game "Além das Torres". Throughout my undergraduate studies, I have developed a passion for learning and seeking knowledge. I am interested in areas such as Artificial Intelligence, Data Science, Embedded Systems and IoT, but I am always open to exploring new fields and learning new things in the world of computing.\
 In my free time, i pursue Pixel Art, 3D modeling and animation as hobbies/side hustles.
@@ -28,19 +28,19 @@ In my free time, i pursue Pixel Art, 3D modeling and animation as hobbies/side h
 ![Autodesk Maya](https://img.shields.io/badge/-Autodesk%20Maya-05122A?style=flat&logo=autodesk-maya)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### 💻 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ManoellaR">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManoellaR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManoellaR&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManoellaR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManoellaR&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🔎 &nbsp;Social Media
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manoella-rockembach/"><img src="https://img.shields.io/badge/-Manoella%20Rockembach-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:manoellarockembach@gmail.com"><img src="https://img.shields.io/badge/-manoellarockembach@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manoella-rockembach/"><img src="https://img.shields.io/badge/-Manoella%20Rockembach-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/manurockembach/"><img src="https://img.shields.io/badge/-@manurockembach-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
